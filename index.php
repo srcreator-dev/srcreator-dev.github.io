@@ -1,10 +1,4 @@
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SR Creator</title>
-  <meta name="google-site-verification" content="T5y34aBth0sFejD6PvZJ-Cog99diKR-ZkF881s5yV44" />
-  <!-- বাকী CSS বা Style এখানেই থাকবে -->
-</head>
+
 🚀 SR Creator
 
 Welcome to SR Creator — a passionate Personal Developer & Freelancer working on Android Apps, Websites, Java, Flutter, Automation and more!
